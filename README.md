@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on - Cloud Computing (on AWS)<br>👯 I’m looking to collaborate on - Web Dev Project (Frontend)<br>🤝 I’m looking for help with -  GSoC '23 Open Contributions<br>🌱 I’m currently learning - MySQL (RDBMS)<br>💬 Ask me about - Programming Languages<br>⚡ Fun fact - Technophile 😃
+🔭 I’m currently working on - LLM and NLP<br>👯 I’m looking to collaborate on - Web Development Projects<br>🤝 I’m looking for help with -  GSoC '25 Open Contributions<br>🌱 I’m currently learning - MySQL (RDBMS)<br>💬 Ask me about - Programming Languages<br>⚡ Fun fact - Technophile 😃
 
 
 ## 🌐 Socials:
